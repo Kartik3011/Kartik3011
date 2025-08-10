@@ -23,5 +23,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik3011&show_icons=true&locale=en&layout=compact" alt="kartik3011" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik3011&" alt="kartik3011" /></p>
+
 <hr>
+
 Thank you for visiting my profile! Let's create a better tomorrow with innovation and dedication. 🚀
