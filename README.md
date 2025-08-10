@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kartik Yadav</h1>
-<h3 align="center">I'm a passionate Computer Science Engineering student and Web Development Enthusiast. Currently pursuing my BTech in Computer Science And Engineering, I'm deeply focused on fullstack development and exploring the exciting world of AI.</h3>
+<h1>Hi 👋, I'm Kartik Yadav</h1>
+<h4>I'm a passionate Computer Science Engineering student and Web Development Enthusiast. Currently pursuing my BTech in Computer Science And Engineering, I'm deeply focused on fullstack development and exploring the exciting world of AI.</h4>
+
+- 💡 I like to explore new technologies and develop software solutions that make life better and simpler for everyone.
 
 - 🔭 I’m currently working on **BharatWorks**
 
@@ -7,7 +9,7 @@
 
 - 📫 How to reach me **kyadavv3011@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PIeOssWPTJxsmkB8nkRZo6VsEtUPq--x/view?usp=sharing)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1PIeOssWPTJxsmkB8nkRZo6VsEtUPq--x/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +23,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik3011&show_icons=true&locale=en&layout=compact" alt="kartik3011" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik3011&" alt="kartik3011" /></p>
+
+Thank you for visiting my profile! Let's create a better tomorrow with innovation and dedication. 🚀
