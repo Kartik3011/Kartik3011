@@ -29,11 +29,9 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">🔥 GitHub Streak:</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik3011&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=kartik3011&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=kartik3011&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kartik3011&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <hr>
