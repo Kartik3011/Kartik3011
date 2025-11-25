@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **BharatWorks**
 
-- 🌱 I’m currently learning **React.js and AI**
+- 🌱 I’m currently learning **React.js and AI Models**
 
 - 📫 How to reach me **kyadavv3011@gmail.com**
 
