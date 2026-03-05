@@ -3,9 +3,9 @@
 
 - 💡 I like to explore new technologies and develop software solutions that make life better and simpler for everyone.
 
-- 🔭 I’m currently working on **BharatWorks** where I'm exploring the intersection of Web3 by implementing decentralized payment gateways and crypto transactions.
+- 🔭 I’m currently working on **BharatWorks**, where I'm exploring the intersection of Web3 by implementing decentralized **payment gateways and crypto transactions**.
 
-- 🌱 I’m currently learning **React.js and AI Models**
+- 🌱 I’m currently learning **Express.js and RAG Models**
 
 - 📫 How to reach me **kyadavv3011@gmail.com**
 
