@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **BharatWorks**, where I'm exploring the intersection of Web3 by implementing decentralized **payment gateways and crypto transactions**.
 - 🌱 I’m currently learning **GenAI and RAG Models**
 - 📫 How to reach me **kyadavv3011@gmail.com**
-- 📄 Know about my [experiences](https://kartik3011.github.io/)
+- 📄 Know about my [experiences/portfolio](https://kartik3011.github.io/)
 
 ---
 
