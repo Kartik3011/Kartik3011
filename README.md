@@ -1,9 +1,10 @@
 <h1>Hi 👋, I'm Kartik Yadav</h1>
-<h4>I'm a passionate Computer Science Engineering student and Web Development Enthusiast. Currently pursuing my BTech in Computer Science And Engineering, I'm deeply focused on fullstack development and exploring the exciting world of AI.</h4>
+<h4>I'm a passionate Data Science enthusiast and B.Tech CSE (AI & ML) graduate. I focus on extracting actionable insights from data, predictive modeling, and architecting AI-driven pipelines.</h4>
 
-- 💡 I like to explore new technologies and develop software solutions that make life better and simpler for everyone.
-- 🔭 I’m currently working on **BharatWorks**, where I'm exploring the intersection of Web3 by implementing decentralized **payment gateways and crypto transactions**.
-- 🌱 I’m currently learning **GenAI and RAG Models**
+- 💡 I enjoy exploring complex datasets and developing intelligent, data-driven solutions that simplify decision-making.
+- 🔭 I’m currently building interactive **Data Analytics Dashboards** and multi-stage **AI validation pipelines**, processing large volumes of textual and raw data.
+- 🌱 I’m actively applying **Machine Learning, Deep Learning (CNNs), and Large Language Models (LLMs)** to solve real-world problems.
+- 🛠️ Tech stack focus: **Python (Pandas, NumPy, Scikit-Learn), SQL, Advanced Excel, Power BI, and Tableau**.
 - 📫 How to reach me **kyadavv3011@gmail.com**
 - 📄 Know about my [experiences/portfolio](https://kartik3011.github.io/)
 
